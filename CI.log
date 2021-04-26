@@ -1,0 +1,110 @@
+[2021-04-25 17:18:24] [DEBUG] caonima
+[2021-04-25 17:21:27] [DEBUG] caonima
+[2021-04-25 17:21:58] [DEBUG] 项目克隆成功！
+[2021-04-25 17:22:34] [DEBUG] clone project success!
+[2021-04-25 17:22:53] [ERROR] clone project error!
+[2021-04-25 17:33:20] [ERROR] clone project error!
+[2021-04-25 17:33:38] [DEBUG] clone project success!
+[2021-04-25 17:39:45] [DEBUG] clone project success!
+[2021-04-25 19:04:16] [DEBUG] git update project success!
+[2021-04-25 19:11:44] [DEBUG] git update project success!
+[2021-04-25 19:20:37] [DEBUG] git update project success!
+[2021-04-25 19:35:30] [DEBUG] git update project success!
+[2021-04-25 19:35:35] [DEBUG] project build success!
+[2021-04-25 19:37:22] [DEBUG] git update project success!
+[2021-04-25 19:37:24] [DEBUG] project build success!
+[2021-04-25 19:43:17] [DEBUG] git update project success!
+[2021-04-25 19:43:19] [DEBUG] project build success!
+[2021-04-25 19:44:46] [DEBUG] git update project success!
+[2021-04-25 19:44:48] [DEBUG] project build success!
+[2021-04-25 19:46:32] [DEBUG] git update project success!
+[2021-04-25 19:46:34] [DEBUG] project build success!
+[2021-04-25 19:47:32] [DEBUG] git update project success!
+[2021-04-25 19:47:33] [DEBUG] project build success!
+[2021-04-25 20:03:31] [DEBUG] git update project success!
+[2021-04-25 20:03:33] [DEBUG] project build success!
+[2021-04-25 20:05:07] [DEBUG] git update project success
+[2021-04-25 20:05:09] [DEBUG] project build success
+[2021-04-25 20:05:09] [ERROR] transport war package to server error!
+[2021-04-25 20:05:29] [DEBUG] git update project success
+[2021-04-25 20:05:31] [DEBUG] project build success
+[2021-04-25 20:05:35] [ERROR] transport war package to server error!
+[2021-04-25 20:07:30] [DEBUG] git update project success
+[2021-04-25 20:07:32] [DEBUG] project build success
+[2021-04-25 20:07:35] [ERROR] transport war package to server error!
+[2021-04-25 20:08:13] [DEBUG] git update project success
+[2021-04-25 20:08:15] [DEBUG] project build success
+[2021-04-25 20:08:21] [ERROR] transport war package to server error!
+[2021-04-25 20:08:37] [DEBUG] git update project success
+[2021-04-25 20:08:39] [DEBUG] project build success
+[2021-04-25 20:08:45] [ERROR] transport war package to server error!
+[2021-04-25 20:13:28] [DEBUG] git update project success
+[2021-04-25 20:13:30] [DEBUG] project build success
+[2021-04-25 20:13:31] [ERROR] transport war package to server error!
+[2021-04-26 13:14:03] [DEBUG] git update project success
+[2021-04-26 13:14:07] [DEBUG] project build success
+[2021-04-26 13:14:09] [DEBUG] transport war package to server success
+[2021-04-26 13:18:18] [DEBUG] git update project success
+[2021-04-26 13:18:19] [DEBUG] project build success
+[2021-04-26 13:18:22] [DEBUG] transport war package to server success
+[2021-04-26 13:19:22] [DEBUG] git update project success
+[2021-04-26 13:19:24] [DEBUG] project build success
+[2021-04-26 13:19:26] [DEBUG] transport war package to server success
+[2021-04-26 13:20:27] [DEBUG] git update project success
+[2021-04-26 13:20:28] [DEBUG] project build success
+[2021-04-26 13:20:31] [ERROR] transport war package to server error!
+[2021-04-26 13:21:56] [DEBUG] git update project success
+[2021-04-26 13:21:58] [DEBUG] project build success
+[2021-04-26 13:22:01] [ERROR] transport war package to server error!
+[2021-04-26 13:24:18] [DEBUG] git update project success
+[2021-04-26 13:24:19] [DEBUG] project build success
+[2021-04-26 13:24:35] [DEBUG] transport war package to server success
+[2021-04-26 13:25:15] [DEBUG] git update project success
+[2021-04-26 13:25:16] [DEBUG] project build success
+[2021-04-26 13:25:34] [DEBUG] transport war package to server success
+[2021-04-26 13:26:12] [DEBUG] git update project success
+[2021-04-26 13:26:13] [DEBUG] project build success
+[2021-04-26 13:26:31] [DEBUG] transport war package to server success
+[2021-04-26 13:28:20] [DEBUG] git update project success
+[2021-04-26 13:28:22] [DEBUG] project build success
+[2021-04-26 13:28:22] [DEBUG] stop docker tomcat-8.0
+[2021-04-26 13:28:31] [DEBUG] start docker tomcat-8.0
+[2021-04-26 13:28:34] [DEBUG] transport war package to server success
+[2021-04-26 13:30:51] [DEBUG] git update project success
+[2021-04-26 13:30:53] [DEBUG] project build success
+[2021-04-26 13:30:53] [DEBUG] stop docker tomcat-8.0
+[2021-04-26 13:31:02] [DEBUG] start docker tomcat-8.0
+[2021-04-26 13:31:05] [DEBUG] transport war package to server success
+[2021-04-26 13:31:40] [DEBUG] git update project success
+[2021-04-26 13:31:42] [DEBUG] project build success
+[2021-04-26 13:31:42] [DEBUG] stop docker tomcat-8.0
+[2021-04-26 13:31:51] [DEBUG] start docker tomcat-8.0
+[2021-04-26 13:32:01] [DEBUG] transport war package to server success
+[2021-04-26 13:32:14] [DEBUG] git update project success
+[2021-04-26 13:32:16] [DEBUG] project build success
+[2021-04-26 13:32:16] [DEBUG] stop docker tomcat-8.0
+[2021-04-26 13:32:25] [DEBUG] start docker tomcat-8.0
+[2021-04-26 13:32:35] [DEBUG] transport war package to server success
+[2021-04-26 13:33:26] [DEBUG] git update project success
+[2021-04-26 13:33:28] [DEBUG] project build success
+[2021-04-26 13:33:28] [DEBUG] stop docker tomcat-8.0
+[2021-04-26 13:33:36] [DEBUG] start docker tomcat-8.0
+[2021-04-26 13:33:39] [DEBUG] transport war package to server success
+[2021-04-26 13:45:09] [DEBUG] git update project success
+[2021-04-26 13:45:11] [DEBUG] project build success
+[2021-04-26 13:45:11] [DEBUG] stop docker tomcat-8.0
+[2021-04-26 13:45:19] [DEBUG] start docker tomcat-8.0
+[2021-04-26 13:45:22] [DEBUG] transport war package to server success
+[2021-04-26 13:45:22] [DEBUG] modify db.properties file content
+[2021-04-26 13:46:51] [DEBUG] git update project success
+[2021-04-26 13:46:54] [DEBUG] project build success
+[2021-04-26 13:46:54] [DEBUG] stop docker tomcat-8.0
+[2021-04-26 13:47:01] [DEBUG] start docker tomcat-8.0
+[2021-04-26 13:47:05] [DEBUG] transport war package to server success
+[2021-04-26 13:47:05] [DEBUG] modify db.properties file content
+[2021-04-26 14:03:59] [DEBUG] git update project success
+[2021-04-26 14:04:00] [DEBUG] project build success
+[2021-04-26 14:04:01] [DEBUG] stop docker tomcat-8.0
+[2021-04-26 14:04:08] [DEBUG] start docker tomcat-8.0
+[2021-04-26 14:04:11] [DEBUG] transport war package to server success
+[2021-04-26 14:04:11] [DEBUG] restart tomcat docker
